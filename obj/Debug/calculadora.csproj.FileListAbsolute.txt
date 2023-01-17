@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\victo\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\victo\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\victo\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\victo\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\victo\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.manifest
+C:\Users\victo\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.application
+C:\Users\victo\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe.manifest
+C:\Users\victo\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.application
